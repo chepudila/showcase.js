@@ -1,0 +1,7 @@
+/.vscode/*
+/img/*
+debug.log
+index.html
+script.js
+style.css
+workspace.code-workspace
